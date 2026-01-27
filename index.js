@@ -23,3 +23,22 @@ con.addEventListener("click", function(){
 1 liter = 0.264 gallon
 1 kilogram = 2.204 pound
 */
+
+//Dark Mode toggle
+const c = document.getElementById("toggle");
+
+c.addEventListener("click", function(){
+  let a = document.body.classList.toggle("no-js");
+
+  const r = "dark"
+  , o = "light";
+  
+  if(a){
+  c.src = c.src.replace(r,o);
+  c.alt = c.alt.replace(r,o);
+  }else{
+  c.src = c.src.replace(o,r);
+  c.alt = c.alt.replace(o,r);
+  }
+
+});

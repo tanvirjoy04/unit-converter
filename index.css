@@ -96,3 +96,35 @@ button{
   color:#353535;
 }
 
+/* Dark Mode design  */
+#toggle{
+  /* border:2px solid red; */
+  background: #d8dee9;
+  /* border:1px solid black; */
+    padding: 0 10px;
+    border-radius: 4px;
+    width: 16px;
+    height: 36px;
+    transition: background-color .3s ease-in-out 0s;
+}
+
+.no-js{
+  background-color: black;
+}
+
+.no-js #output-container{
+  background-color: #1F2937;
+}
+.no-js .box{
+  background-color: #273549;
+}
+.no-js .box h2{
+  color: #CCC1FF;
+}
+.no-js .box p{
+ color: white;
+}
+.no-js #toggle{
+  background-color: black;
+  border: 1px solid white;
+}
