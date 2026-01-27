@@ -11,6 +11,10 @@ Congratulations to me. 🥳
 - Round the numbers down to three decimal places
 
 ## Stretch goals
-- Dark Mode [See design](https://www.figma.com/design/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0-1&p=f&t=BLoQBxHDWVwKzMd3-0)
+- Dark Mode [See design](https://www.figma.com/design/cqtGul0V8RFXY4vTcIv1Kc/Unit-Conversion?node-id=0-1&p=f&t=BLoQBxHDWVwKzMd3-0) ✅
+
+
+Built First "Dark Mode" ever in my Life 😎👌🔥.
+Congratulations to me. 🥳
 
 [Full Instructions](https://scrimba.com/s04ja66)
